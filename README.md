@@ -1,6 +1,5 @@
 # 🚀 Credit Risk Assessment & Fintech Business Strategy
-
-**(Đánh giá Rủi ro Tín dụng & Chiến lược Kinh doanh Fintech)**
+**Đánh giá Rủi ro Tín dụng & Chiến lược Kinh doanh Fintech**
 ---
 ## 📖 Bối cảnh kinh doanh
 
@@ -66,7 +65,6 @@ Dựa trên thuật toán K-Means, tệp khách hàng được phân thành các
 
 4. **Chó mực (Dogs - Rủi ro cao, Lợi nhuận thấp):** Thu nhập thấp, thất nghiệp, nợ xấu cao.
 * *Hành động:* Siết chặt điều kiện giải ngân, yêu cầu tài sản đảm bảo, chỉ cung cấp Micro-loans.
-
 
 
 ## 💡 Đề xuất hành động (Actionable Solutions)
